@@ -1,6 +1,6 @@
-## Hi I'm Carlos Duran.👋
+# Hi, I'm Carlos Duran.👋
 
-** IT professional becoming a ✨Forward Deployed Engineer✨. Learning in public.**
+** IT professional becoming a Forward Deployed Engineer. Learning in public. **
 
 ## About Me
 
@@ -11,7 +11,7 @@ so I can build solutions directly with the people who use them.
 Outside of tech: Dominican cooking 🍳 and console games 🎮.
 
 
-## What can I do now
+## What I can do now
 
 - Navigate and organize files from the terminal (`cd`, `ls`, `mv`, `rm`, wildcards)
 - Version control with Git: commits, history, restoring files, branches
