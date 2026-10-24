@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Duran.👋
 
-** IT professional becoming a Forward Deployed Engineer. Learning in public. **
+**IT professional becoming a Forward Deployed Engineer. Learning in public.**
 
 ## About Me
 
