@@ -32,14 +32,14 @@ Outside of tech: Dominican cooking 🍳 and console games 🎮.
 
 ## My roadmap 🗺️
 
-- [ ] 🧭 Explorer: terminal, Git and GitHub
+- [x] 🧭 Explorer: terminal, Git and GitHub
 - [ ] 🐍 Pythonista: Contact Book app
 - [ ] 🌐 Web Builder: live weather dashboard
 - [ ] 🔍 Data Detective: shop analytics with SQL
 - [ ] 👨‍🍳 API Chef: Task Manager API with login
 - [ ] 🧱 Full-Stack Builder: full-stack Task Manager
 - [ ] 🚀 Shipper: Task Manager live in the cloud
-- [ ] 🤖 AI Engineer: "Ask My Documents" assistant
+- [ ] 🤖 AI Engineer: "Ask My Documents" assistants
 - [ ] 🤝 Field Engineer: mock customer engagement
 - [ ] 🏆 Forward Deployed Engineer: AI-powered CRM
 
